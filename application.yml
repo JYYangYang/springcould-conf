@@ -3,7 +3,7 @@ spring:
     active: dev
 
 spring:
-  profile:dev
+  profile: dev
   application:
     name: springcloud-config-dev
      
